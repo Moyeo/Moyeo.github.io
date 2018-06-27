@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  
+<title>babun,在windows下体验linux控制台</title>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="时光了无痕，唯有笔墨深">
+<meta name="keywords" content="OC,swift,iOS,Android,Docker,java,github,git,jekyll,">
+<meta name="keywords" content="babun,在windows下体验linux控制台">
+<meta name="baidu-site-verification" content="HQAmWn1tQw" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link href="/css/bootstrap.min.css" rel="stylesheet">
+<link href="/css/hc.css" rel="stylesheet">
+<link href="/css/animate.css" rel="stylesheet">
+<link href="/css/dpflow.css" rel="stylesheet">
+<link href="/css/sweet-alert.css" rel="stylesheet">
+<link href="/css/danceword.css" rel="stylesheet">
+<link href="/css/aos.css" rel="stylesheet">
+<link href="/css/font-awesome.css" rel="stylesheet">
+<link href="/css/button.css" rel="stylesheet">
+<link href="/css/baguetteBox.css" rel="stylesheet">
+
+  <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?b0dbe44f94ebb13f2e1e9078d5b571cc";
+  var s = document.getElementsByTagName("script")[0];
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+  </head>
+  <body>
+    <!-- Bootstrap core JavaScript-->
+<script src="/js/jquery-1.10.2.min.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/hc.js"></script>
+<script src="/js/mouse.js"></script>
+<script src="/js/sweet-alert.min.js"></script>
+<script src="/js/dpflow.js"></script>
+<script src="/js/dpflow-func.js"></script>
+<script src="/js/danceword.js"></script>
+<script src="/js/aos.js"></script>
+<script src="/js/baguetteBox.js"></script>
+<script async="" src="https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
+
+    <div id = "wrapper">
+      <!-- Sidebar -->
+<div id="sidebar-wrapper">
+
+  <ul class="sidebar-nav">
+
+    <li><img class="head-pic" alt="Mr.Moyeo" src="/images/head.gif"></li>
+
+    <li><img class="head-lz" src="/images/moyeo.png"></li>
+
+    <li class="sidebar-brand"><h3>时光了无痕，唯有笔墨深</h3></li>
+
+    <hr />
+      <li><a href="/index.html">细数时光</a></li>
+      <li><a href="/blog.html">随手记笔</a></li>
+      <li><a href="/about.html">一叶知秋</a></li>
+      <li><a href="/talk.html">你吐我槽</a></li>
+      <h5 class="li-github" align="center"><hr><a class="brand" href="https://github.com/Moyeo" target="_blank" title="Mr.Moyeo's github."><i class="fa fa-github-square">Mr.Moyeo</i></a></h5>
+      <h5 class="li-see" align="center">
+	 &copy;2018
+	 <span id="busuanzi_container_site_uv"><i class="fa fa-user" title="本站访问人次"><span class="busuanzi-value" id="busuanzi_value_site_uv"></span></i></span>
+   	 <span id="busuanzi_container_site_pv"><i class="fa fa-eye" title="本站访问总量"><span class="busuanzi-value" id="busuanzi_value_site_pv"></span></i></span>
+      </h5>
+  </ul>
+</div>
+
+      <div class="container">
+        <link href="/css/highlight.css" rel="stylesheet">
+
+<div id="article" aos="zoom-in-up">
+  <div class="article-title">babun,在windows下体验linux控制台</div>
+  <p class="meta">
+    <small>
+      &nbsp;<i class="fa fa-calendar-o"></i> 04 Jun 2017
+    </small>
+  </p>
+  <hr/>
+  <div class="post"><h4 id="点击进入官方主页"><a href="http://babun.github.io/" target="_blank">点击进入官方主页</a></h4>
+
+<h5 id="下载并解压后运行installbat即可最好以管理员身份运行">下载并解压后，运行install.bat即可（最好以管理员身份运行）</h5>
+
+<h5 id="babun默认集成了gitoh-my-zshvim等各种插件">babun默认集成了git、oh-my-zsh、vim等各种插件</h5>
+
+<h5 id="有类似apt-getyum的包管理器pact">有类似apt-get、yum的包管理器：pact</h5>
+
+<h4 id="常用软件安装">常用软件安装</h4>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	#安装tmux
+	pact install tmux        
+
+	#安装screen
+	pact install screen
+
+	#安装zip
+	pact install zip
+
+	#安装svn
+	pact install subversion
+
+	#安装lftp命令
+	pact install lftp
+
+	#安装p7zip命令
+	pact install p7zip
+
+	#基于openssh的socks https代理
+	pact install connect-proxy
+
+	#安装linux基础命令行工具more/col/whereis等命令
+	pact install util-linux    
+
+	#安装dig命令
+	pact install bind-utils
+
+	#安装Telnet等常用网络命令
+	pact install inetutils  
+
+	#安装python环境
+	pact install python        
+	pact install python-crypto
+
+</code></pre></div></div>
+
+<h4 id="中文乱码">中文乱码</h4>
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>vim ~/.babunrc
+添加：chcp 65001
+source ~/.babunrc
+
+</code></pre></div></div>
+
+</div>
+  
+<div class="dashang baguetteBoxThree gallery">
+	<a href="/images/shang.gif">
+		<button class="button button-raised button-action button-circle button-jumbo">
+			<span>打赏</span>
+		</button>
+	</a>
+</div>
+
+  <div class="jiathis_style_32x32">
+	<a class="jiathis_button_qzone"></a>
+	<a class="jiathis_button_tsina"></a>
+	<a class="jiathis_button_weixin"></a>
+	<a class="jiathis_button_cqq"></a>
+	<a class="jiathis_button_ydnote"></a>
+	<a class="jiathis_button_linkedin"></a>
+	<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript">var jiathis_config = {data_track_clickback:'true'};</script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js?uid=2133540" charset="utf-8"></script>
+
+  <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
+  <script src="/js/highlight.min.js"></script>
+  <script src="/js/fokus.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script>
+  <br/>
+
+  <ul class="pager">
+
+
+  <li class="next"><a href="/2017/05/26/linux.html">linux一些常用命令 &rarr;</a></li>
+
+
+
+  <li class="previous"><a href="/2017/06/15/python.html">&larr; python2.x和python3.x多版本共存</a></li>
+
+
+</ul>
+
+
+<!-- gitment begin -->
+<div id="gitment"></div>
+<link rel="stylesheet" href="https://billts.site/extra_css/gitment.css">
+<script src="https://billts.site/js/gitment.js"></script>
+<script>
+
+var gitment=new Gitment({
+		id:'<%=page.date%>',
+		owner:'Moyeo',
+		repo:'moyeo.github.io',
+		oauth:{client_id:'416017255bacf3b45cfe',client_secret:'b9884473ec512685ba9ad487212e6dabf1f18756'}
+});
+gitment.render('gitment');
+</script>
+<!-- gitment end -->
+
+      </div>
+    </div>
+    <script>
+		AOS.init({easing: 'ease-out-back',duration: 1000});
+		window.onload = function() {
+			baguetteBox.run('.baguetteBoxThree', {
+				animation: 'fadeIn',
+			});
+		};
+	</script>
+  </body>
+</html>
