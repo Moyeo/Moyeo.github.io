@@ -1,0 +1,27 @@
+name: 默语的博客
+author: Moyeo.github.io
+#baseurl: /Moyeo.github.io
+keywords: OC,swift,iOS,Android,Docker,java,github,git,jekyll,
+description: 时光了无痕，唯有笔墨深
+github: https://github.com/Moyeo
+email: zp881228@163.com
+ClientID: 416017255bacf3b45cfe
+ClientSecret: b9884473ec512685ba9ad487212e6dabf1f18756
+
+encoding: utf-8
+#highlighter: rouge
+markdown: kramdown
+redcarpet:
+  extensions: ["tables"]
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
