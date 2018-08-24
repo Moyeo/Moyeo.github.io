@@ -17,10 +17,10 @@ a { color: #333;text-decoration: none;}
 .important .rcsp_3 span{ background:url("images/icon3.png") no-repeat bottom center;}
 .important .rcsp_4 span{ background:url("images/icon4.png") no-repeat bottom center;}
 .important .rcsp_5 span{ background:url("images/icon5.png") no-repeat bottom center;}
-.important .rcsp_6 span{ background:url("images/icon6.png") no-repeat bottom center;}
+/* .important .rcsp_6 span{ background:url("images/icon6.png") no-repeat bottom center;}
 .important .rcsp_7 span{ background:url("images/icon7.png") no-repeat bottom center;}
 .important .rcsp_8 span{ background:url("images/icon8.png") no-repeat bottom center;}
-.important .rcsp_9 span{ background:url("images/icon9.png") no-repeat bottom center;}
+.important .rcsp_9 span{ background:url("images/icon9.png") no-repeat bottom center;} */
 .w1200 .important .rcsp_1:hover span, .w1200 .important .rcsp_2:hover span,.w1200 .important .rcsp_3:hover span,.w1200 .important .rcsp_4:hover span,.w1200 .important .rcsp_5:hover span,.w1200 .important .rcsp_6:hover span, .w1200 .important .rcsp_7:hover span, .w1200 .important .rcsp_8:hover span, .w1200 .important .rcsp_9:hover span{transition: background 0.3s;
 -moz-transition: background 0.3s;
 -ms-transition: background 0.3s;
@@ -31,10 +31,10 @@ a { color: #333;text-decoration: none;}
 .w1200 .important .rcsp_3:hover span{ background:url("images/icon3.png") no-repeat top center;}
 .w1200 .important .rcsp_4 span:hover{ background:url("images/icon4.png") no-repeat top center;}
 .w1200 .important .rcsp_5 span:hover{ background:url("images/icon5.png") no-repeat top center;}
-.w1200 .important .rcsp_6 span:hover{ background:url("images/icon6.png") no-repeat top center;}
+/* .w1200 .important .rcsp_6 span:hover{ background:url("images/icon6.png") no-repeat top center;}
 .w1200 .important .rcsp_7 span:hover{ background:url("images/icon7.png") no-repeat top center;}
 .w1200 .important .rcsp_8 span:hover{ background:url("images/icon8.png") no-repeat top center;}
-.w1200 .important .rcsp_9 span:hover{ background:url("images/icon9.png") no-repeat top center;}
+.w1200 .important .rcsp_9 span:hover{ background:url("images/icon9.png") no-repeat top center;} */
 .important .rcsp_9{ margin-right:0px;}
 .important li p{ line-height:18px; margin-top:20px; text-align:center; display:block; color:#1dd2af;}
 .important li:hover p{ color:#333;}

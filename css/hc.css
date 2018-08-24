@@ -47,11 +47,16 @@ span.blog-title{
 span.blog-time{
 	font-size:16px;
 }
+div
+{
+    box-sizing: border-box;
+}
 .homepage-posts {
 	list-style: none
 }
 .container {
   /*width:800px;*/
+    width: calc(100% - 60px);
 	margin: 1px auto;
 }
 .container a {
@@ -496,6 +501,7 @@ time {
 #article h1,#article h2,#article h3 {
 	color: #3a3a3a
 }
+
 @media (max-width:767px) {
 	#wrapper {
 		padding-left: 0;
@@ -538,7 +544,7 @@ time {
 		line-height: 30px;
 	}
 	.container {
-		width: 100%;
+        width: calc(100% - 60px);
 		margin: 10 auto;
 		padding-left:5px !important;
 		padding-right:5px !important;
@@ -580,6 +586,7 @@ time {
 		height:300px !important;
 	}
 }
+
 /* split line --------------------------------------------------  */
 .head-pic {
 	width: 125px;
@@ -681,18 +688,17 @@ time {
 .nav li{
 	padding-left:15px;
 }
+
 .container>.navbar-header{
 	padding-left:15px;
 	padding-right:15px;
 }
-.jiathis_style_32x32{
-	margin-bottom:25px;
-	padding-bottom: 5px;
-}
+
 .dashang{
 	text-align:center;
 	margin-bottom:20px;
 }
+
 .dashang span{
 	font-size:18px !important;
 	font-weight:bold !important;
