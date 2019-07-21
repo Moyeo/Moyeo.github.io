@@ -173,9 +173,9 @@
 }
 
 .down_slide{
-    background:url(../images/bg_lan_pc.png) no-repeat;
+    background:url(../niusales/bg_lan_pc.png) no-repeat;
     background-size: cover;
-    background-color:#538EEB; 
+    background-color:#538EEB;
 }
 .down_slide button{
     color:#538EEB;
@@ -306,7 +306,7 @@
     }
 
     .down_slide{
-        background:url(../images/bg_lan_sj.png) no-repeat;
+        background:url(../niusales/bg_lan_sj.png) no-repeat;
         background-size: cover;
     }
 }
