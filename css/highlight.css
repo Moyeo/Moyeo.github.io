@@ -26,11 +26,11 @@
 .hljs {
   display: block;
   overflow-x: auto;
-  background: #202746;
+  /* background: #202746; */
+  background: #1b783f;
   color: #979db4;
   padding: 0.5em;
   -webkit-text-size-adjust: none; }
 .coffeescript .javascript, .javascript .xml, .tex .hljs-formula, .xml .javascript, .xml .vbscript, .xml .css, .xml .hljs-cdata {
-  opacity: 0.5; 
+  opacity: 0.5;
   }
-
