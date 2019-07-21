@@ -6,7 +6,7 @@ $(document).ready(function() {
 });
 
 
-/*
+
 var toggle = false;
 $('.nav-toggle').on('click', function () {
     if (toggle == false) {
@@ -21,7 +21,7 @@ $('.nav-toggle').on('click', function () {
         toggle = false;
     }
 });
-*/
+
 
 $(function() {
     $('.project-box').click(function() {
