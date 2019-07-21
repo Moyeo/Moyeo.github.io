@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Niusales</string>
+				<string>商脉圈</string>
 			</dict>
 			<key>thinned-assets</key>
 			<array>
@@ -43,12 +43,12 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://moyeo.github.io/niusales/Apps/Niusales-8E30650F-6049-4BFA-9138-7F219AAFDC49.ipa</string>
+					<string>https://moyeo.github.io/niusales/Apps/Niusales-8F822C05-C6AC-45A3-95F8-926797642246.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone10,6</string>
+							<string>iPhone11,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -60,13 +60,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone11,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,5</string>
+							<string>iPhone9,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -78,13 +72,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPhone9,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone11,4</string>
+							<string>iPhone10,6</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -97,6 +85,18 @@
 						<dict>
 							<key>device</key>
 							<string>iPhone9,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone11,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -118,7 +118,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://moyeo.github.io/niusales/Apps/Niusales-F7FA6BB1-817A-4484-BAC1-4CCEFBB2C51E.ipa</string>
+					<string>https://moyeo.github.io/niusales/Apps/Niusales-90E42305-DC8D-4A6C-ACE5-321222B74EC6.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
@@ -137,21 +137,9 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://moyeo.github.io/niusales/Apps/Niusales-33C7182B-61A7-4D6B-A43E-D895BCA97A7E.ipa</string>
+					<string>https://moyeo.github.io/niusales/Apps/Niusales-E5AB3FF8-7668-471C-985F-13B72259F040.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
-						<dict>
-							<key>device</key>
-							<string>iPhone10,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone9,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone9,3</string>
@@ -161,6 +149,18 @@
 						<dict>
 							<key>device</key>
 							<string>iPhone10,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone10,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone9,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -177,9 +177,21 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://moyeo.github.io/niusales/Apps/Niusales-0D8EE6B7-036A-4F4C-9D29-7A6958A1E057.ipa</string>
+					<string>https://moyeo.github.io/niusales/Apps/Niusales-CC23954C-2BBE-406A-A128-3D41798FE5D2.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
+						<dict>
+							<key>device</key>
+							<string>iPad8,4</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPad8,3</string>
@@ -194,7 +206,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,1</string>
+							<string>iPad11,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -206,7 +218,37 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,5</string>
+							<string>iPad8,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad11,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad8,7</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -224,37 +266,13 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad8,7</string>
+							<string>iPad8,5</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad7,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad8,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,1</string>
+							<string>iPad11,3</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -267,24 +285,6 @@
 						<dict>
 							<key>device</key>
 							<string>iPad7,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad11,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,2</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -315,12 +315,90 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://moyeo.github.io/niusales/Apps/Niusales-D1B68807-DBB9-4559-B62C-8D9EF420EA75.ipa</string>
+					<string>https://moyeo.github.io/niusales/Apps/Niusales-43DA37A4-BCC3-4968-A9EE-499A64464E72.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
+							<string>iPad6,7</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,6</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,8</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
 							<string>iPad4,7</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad6,11</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad7,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,5</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad5,3</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPad4,9</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -338,37 +416,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad6,7</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,9</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,4</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,3</string>
+							<string>iPad4,6</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -380,55 +428,7 @@
 						</dict>
 						<dict>
 							<key>device</key>
-							<string>iPad6,11</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,5</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad6,8</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,3</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad5,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad7,6</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPad4,5</string>
+							<string>iPad5,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -460,30 +460,18 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://moyeo.github.io/niusales/Apps/Niusales-B6D1AC04-B5FD-4938-8C8A-0C42C88BDD4E.ipa</string>
+					<string>https://moyeo.github.io/niusales/Apps/Niusales-84380360-B9B5-4568-8BE8-519657CEDF37.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
 							<key>device</key>
-							<string>iPhone8,4</string>
+							<string>iPod7,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
 						<dict>
 							<key>device</key>
 							<string>iPhone8,1</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPhone6,2</string>
-							<key>os-version</key>
-							<string>12.2</string>
-						</dict>
-						<dict>
-							<key>device</key>
-							<string>iPod7,1</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -496,6 +484,18 @@
 						<dict>
 							<key>device</key>
 							<string>iPhone6,1</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone6,2</string>
+							<key>os-version</key>
+							<string>12.2</string>
+						</dict>
+						<dict>
+							<key>device</key>
+							<string>iPhone8,4</string>
 							<key>os-version</key>
 							<string>12.2</string>
 						</dict>
@@ -514,7 +514,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://moyeo.github.io/niusales/Apps/Niusales-FDB040AE-2E25-45AB-87F5-6F6DC9813019.ipa</string>
+					<string>https://moyeo.github.io/niusales/Apps/Niusales-6B3BB9C4-EDE3-4CF5-9F0F-EA9F8F4F4F11.ipa</string>
 					<key>variantDescriptors</key>
 					<array>
 						<dict>
