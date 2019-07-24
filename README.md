@@ -1,6 +1,6 @@
 # [Mr.Moyeo's blog](https://moyeo.github.io/ "默语的博客")
 
-https://moyeo.github.io/
+https://moyeo.github.io
 
 ---
 # markdown test
